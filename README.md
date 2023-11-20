@@ -1,4 +1,4 @@
 # Amit-repositery
 This is my first repositery
-/n
+<br>
 author - amit kumar
